@@ -1,1 +1,15 @@
-# Angular_NodeJS_Boilerplate
+# Restaurant App
+
+    
+
+
+#### Setup
+```
+$ npm install
+```
+
+#### Run
+```
+$ gulp serve
+
+```
